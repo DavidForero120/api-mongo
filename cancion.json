@@ -1,0 +1,61 @@
+[{
+  "_id": 1,
+  "nombreCancion": "La corriente",
+  "fechaGrabacion": "2022-05-06",
+  "idAlbum": 1,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 2,
+  "nombreCancion": "moscow mule",
+  "fechaGrabacion": "2022-05-06",
+  "idAlbum": 1,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 3,
+  "nombreCancion": "Angel",
+  "fechaGrabacion": "1998-04-17",
+  "idAlbum": 2,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 4,
+  "nombreCancion": "risingson",
+  "fechaGrabacion": "1998-04-17",
+  "idAlbum": 2,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 5,
+  "nombreCancion": "dreams",
+  "fechaGrabacion": "1977-02-04",
+  "idAlbum": 3,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 6,
+  "nombreCancion": "the chain",
+  "fechaGrabacion": "1977-02-04",
+  "idAlbum": 3,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 7,
+  "nombreCancion": "Aventura",
+  "fechaGrabacion": "2020-06-03",
+  "idAlbum": 4,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 8,
+  "nombreCancion": "Por un segundo",
+  "fechaGrabacion": "2020-06-03",
+  "idAlbum": 4,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 9,
+  "nombreCancion": "Ajena",
+  "fechaGrabacion": "2001-09-14",
+  "idAlbum": 5,
+  "estadoCancion": "finalizado"
+},{
+  "_id": 10,
+  "nombreCancion": "amantes",
+  "fechaGrabacion": "2001-09-14",
+  "idAlbum": 5,
+  "estadoCancion": "finalizado"
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": 1,
+  "nombreAlbum": "un verano sin ti",
+  "añoPublicacion": 2022,
+  "idgenero": 1,
+  "estadoAlbum": "finalizado"
+},{
+  "_id": 2,
+  "nombreAlbum": "mezzanine",
+  "añoPublicacion": 1998,
+  "idgenero": 2,
+  "estadoAlbum": "finalizado"
+},{
+  "_id": 3,
+  "nombreAlbum": "rumors",
+  "añoPublicacion": 1977,
+  "idgenero": 3,
+  "estadoAlbum": "finalizado"
+},{
+  "_id": 4,
+  "nombreAlbum": "the last",
+  "añoPublicacion": 2009,
+  "idgenero": 4,
+  "estadoAlbum": "finalizado"
+},{
+  "_id": 5,
+  "nombreAlbum": "atrevido",
+  "añoPublicacion": 2001,
+  "idgenero": 5,
+  "estadoAlbum": "finalizado"
+}]

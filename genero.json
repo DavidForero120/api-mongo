@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "nombreGenero": "urbano",
+  "estadoGenero": "activo"
+},{
+  "_id": 2,
+  "nombreGenero": "electronica",
+  "estadoGenero": "activo"
+},{
+  "_id": 3,
+  "nombreGenero": "rock",
+  "estadoGenero": "activo"
+},{
+  "_id": 4,
+  "nombreGenero": "bachata",
+  "estadoGenero": "activo"
+},{
+  "_id": 5,
+  "nombreGenero": "merengue",
+  "estadoGenero": "activo"
+}]
